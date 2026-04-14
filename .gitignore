@@ -1,0 +1,15 @@
+# Ignorar compilados do C
+*.exe
+*.o
+*.out
+
+# Ignorar compilados do Java
+*.class
+
+# Ignorar os arquivos de dados gerados pelo Python
+*.txt
+*.csv
+
+# Ignorar pastas ocultas de IDEs
+.vscode/
+.idea/
