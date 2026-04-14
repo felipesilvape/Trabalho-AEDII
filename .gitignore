@@ -13,3 +13,5 @@
 # Ignorar pastas ocultas de IDEs
 .vscode/
 .idea/
+
+dados_teste/
